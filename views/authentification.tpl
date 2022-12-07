@@ -2,7 +2,7 @@
 
 
 <div class="alert alert-danger" role="alert" id="info" >
-      Bad password !
+      You bad !!!
 </div>
 
 <div class="alert alert-success" role="alert" id="success" >
